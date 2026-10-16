@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/harshalmistri2004)
 [![Repositories](https://img.shields.io/badge/Explore-Projects-0891b2?style=for-the-badge&logo=github)](https://github.com/harshalmistri2004?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshalmistri/)
 
 </div>
 
